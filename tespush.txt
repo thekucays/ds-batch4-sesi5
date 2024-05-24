@@ -1,2 +1,3 @@
 ini tes push:wq
+Ini yang dari branch coba1
 
